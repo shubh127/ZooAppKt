@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Zoo App</string>
+    <string name="baboon">Baboon</string>
+    <string name="baboon_description">Baboon lives in a place with trees</string>
+    <string name="bulldog">Bulldog</string>
+    <string name="panda">Panda</string>
+    <string name="swallo_bird">Swallow Bird</string>
+    <string name="white_tiger">White Tiger</string>
+    <string name="zebra">Zebra</string>
+    <string name="bulldog_description">Bulldogs are not actually bulls.</string>
+    <string name="panda_description">Pandas are fat</string>
+    <string name="swallow_bird_description">Swallow Birds are a female.</string>
+    <string name="white_tiger_description">White tigers are white in color.</string>
+    <string name="zebra_description">Zebras are white and black in color.</string>
+</resources>
